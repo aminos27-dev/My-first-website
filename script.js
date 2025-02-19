@@ -16,7 +16,7 @@ btnFr.addEventListener('click', () => {
     </section>
     <section>
       <h3>Compétences</h3>
-      <p>HTML, CSS, JavaScript, C, Python, PHP, R, SQL.</p>
+      <p>HTML, CSS, JavaScript, C, Java, Python, PHP, R, SQL.</p>
     </section>
     <section>
       <h3>Loisirs</h3>
@@ -38,7 +38,7 @@ btnEn.addEventListener('click', () => {
     </section>
     <section>
       <h3>Skills</h3>
-      <p>HTML, CSS, JavaScript, C, Python, PHP, R, SQL.</p>
+      <p>HTML, CSS, JavaScript, C, Java, Python, PHP, R, SQL.</p>
     </section>
     <section>
       <h3>Hobbies</h3>
